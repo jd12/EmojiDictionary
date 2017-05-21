@@ -12,6 +12,8 @@
 		A6174F431ECF527F002DE5AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6174F411ECF527F002DE5AE /* Main.storyboard */; };
 		A6174F451ECF527F002DE5AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6174F441ECF527F002DE5AE /* Assets.xcassets */; };
 		A6174F481ECF527F002DE5AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6174F461ECF527F002DE5AE /* LaunchScreen.storyboard */; };
+		A6174F501ED028BA002DE5AE /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6174F4F1ED028BA002DE5AE /* DefinitionViewController.swift */; };
+		A6174F521ED12469002DE5AE /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6174F511ED12469002DE5AE /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A6174F441ECF527F002DE5AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6174F471ECF527F002DE5AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6174F491ECF527F002DE5AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6174F4F1ED028BA002DE5AE /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
+		A6174F511ED12469002DE5AE /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				A6174F3D1ECF527F002DE5AE /* AppDelegate.swift */,
 				A6174F3F1ECF527F002DE5AE /* ViewController.swift */,
 				A6174F411ECF527F002DE5AE /* Main.storyboard */,
+				A6174F4F1ED028BA002DE5AE /* DefinitionViewController.swift */,
+				A6174F511ED12469002DE5AE /* Emoji.swift */,
 				A6174F441ECF527F002DE5AE /* Assets.xcassets */,
 				A6174F461ECF527F002DE5AE /* LaunchScreen.storyboard */,
 				A6174F491ECF527F002DE5AE /* Info.plist */,
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6174F401ECF527F002DE5AE /* ViewController.swift in Sources */,
+				A6174F501ED028BA002DE5AE /* DefinitionViewController.swift in Sources */,
+				A6174F521ED12469002DE5AE /* Emoji.swift in Sources */,
 				A6174F3E1ECF527F002DE5AE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
